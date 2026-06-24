@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bk-1782183419559",
+    "tramperName": "William",
+    "hutId": "hut-01",
+    "arrivalDate": "2026-10-04",
+    "nights": 2,
+    "partySize": 1
+  },
+  {
+    "id": "bk-1782257444966",
+    "tramperName": "lucas",
+    "hutId": "hut-01",
+    "arrivalDate": "2026-06-25",
+    "nights": 4,
+    "partySize": 4
+  },
+  {
+    "id": "bk-1782260025147",
+    "tramperName": "matt",
+    "hutId": "hut-01",
+    "arrivalDate": "2026-07-20",
+    "nights": 4,
+    "partySize": 4
+  }
+]
