@@ -1,6 +1,5 @@
-============
 Instructions 
-============
+
 
 Run the booking manager by opening a terminal window and typing npm start
 
